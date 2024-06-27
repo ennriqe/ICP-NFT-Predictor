@@ -1,0 +1,1 @@
+&RefCell<std::option::Option<tract_onnx::prelude::SimplePlan<tract_onnx::prelude::TypedFact, Box<(dyn tract_onnx::prelude::TypedOp + 'static)>, tract_onnx::prelude::Graph<tract_onnx::prelude::TypedFact, Box<(dyn tract_onnx::prelude::TypedOp + 'static)>>>>>

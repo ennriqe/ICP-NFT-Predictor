@@ -1,0 +1,1 @@
+{"rustc":12152928357286724068,"features":"[\"std\"]","target":12953503609691333797,"profile":14094339167972473758,"path":8174100358877006893,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"wasm32-wasi/release/.fingerprint/bit-vec-da2f269dd8d7e93b/dep-lib-bit-vec"}}],"rustflags":[],"metadata":5453604409853202200,"config":2202906307356721367,"compile_kind":16489420942494921214}

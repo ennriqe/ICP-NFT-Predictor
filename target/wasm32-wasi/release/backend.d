@@ -1,0 +1,1 @@
+/Users/ennriqe/Desktop/image-classification/target/wasm32-wasi/release/backend.wasm: /Users/ennriqe/Desktop/image-classification/src/backend/assets/linear_regression.onnx /Users/ennriqe/Desktop/image-classification/src/backend/src/lib.rs /Users/ennriqe/Desktop/image-classification/src/backend/src/onnx.rs

@@ -1,0 +1,10 @@
+/Users/ennriqe/Web3 AI Hackathon/ICP/my_ic_project/image-classification/target/wasm32-wasi/release/deps/libcsscolorparser-a7d39aadf14ceadb.rmeta: /Users/ennriqe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/csscolorparser-0.6.2/src/lib.rs /Users/ennriqe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/csscolorparser-0.6.2/src/color.rs /Users/ennriqe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/csscolorparser-0.6.2/src/parser/mod.rs /Users/ennriqe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/csscolorparser-0.6.2/src/parser/named_colors.rs
+
+/Users/ennriqe/Web3 AI Hackathon/ICP/my_ic_project/image-classification/target/wasm32-wasi/release/deps/libcsscolorparser-a7d39aadf14ceadb.rlib: /Users/ennriqe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/csscolorparser-0.6.2/src/lib.rs /Users/ennriqe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/csscolorparser-0.6.2/src/color.rs /Users/ennriqe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/csscolorparser-0.6.2/src/parser/mod.rs /Users/ennriqe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/csscolorparser-0.6.2/src/parser/named_colors.rs
+
+/Users/ennriqe/Web3 AI Hackathon/ICP/my_ic_project/image-classification/target/wasm32-wasi/release/deps/csscolorparser-a7d39aadf14ceadb.d: /Users/ennriqe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/csscolorparser-0.6.2/src/lib.rs /Users/ennriqe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/csscolorparser-0.6.2/src/color.rs /Users/ennriqe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/csscolorparser-0.6.2/src/parser/mod.rs /Users/ennriqe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/csscolorparser-0.6.2/src/parser/named_colors.rs
+
+/Users/ennriqe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/csscolorparser-0.6.2/src/lib.rs:
+/Users/ennriqe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/csscolorparser-0.6.2/src/color.rs:
+/Users/ennriqe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/csscolorparser-0.6.2/src/parser/mod.rs:
+/Users/ennriqe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/csscolorparser-0.6.2/src/parser/named_colors.rs:
